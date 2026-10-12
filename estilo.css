@@ -1,0 +1,39 @@
+
+/* Tudo do body */
+body{background-image: url(simpsonQuebrado.jpg); background-size: cover; background-position: center; background-attachment: fixed;}
+
+/* Todos os textos serão centralizados */
+.central{text-align: center;}
+
+h1{color:yellow;font-weight: bold; font-family: 'Times New Roman', Times, serif; font-size: 50px; text-align: center;}
+
+
+/* Parágrafo da biografia */
+.biografia{background-color: rgba(222, 184, 135, 0.514);font-family: Arial, Helvetica, sans-serif; font-weight: bold;font-size: 25px; text-align: center;}
+
+
+/* Titulo principal da Página */
+#tituloPrincipal{font-size: 90px; background-color: rgba(233, 180, 5, 0.336);}
+
+/* Vídeos Famosos */
+.tituloVideosFamosos{color:blue; font-weight: bolder; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: 35px; background-color: rgba(233, 180, 5, 0.336);}
+
+/* Listas */
+.tituloLista{font-size: 20px;}
+#textoLista{background-color:rgba(236, 184, 13, 0.5); }
+
+/* Div */
+.box{
+    margin: 10px;
+    padding: 20px;
+    border: 4px solid rgba(255, 255, 0, 0.555);
+    width: fit-content;
+}
+
+/* Música*/
+.meu-player {
+  width: 100%;
+  max-width: 400px;
+  margin: 20px auto;
+  border-radius: 8px;
+}
